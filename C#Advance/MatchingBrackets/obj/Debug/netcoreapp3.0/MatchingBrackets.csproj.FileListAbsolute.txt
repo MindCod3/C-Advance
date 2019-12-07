@@ -1,0 +1,11 @@
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\MatchingBrackets\bin\Debug\netcoreapp3.0\MatchingBrackets.exe
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\MatchingBrackets\bin\Debug\netcoreapp3.0\MatchingBrackets.deps.json
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\MatchingBrackets\bin\Debug\netcoreapp3.0\MatchingBrackets.runtimeconfig.json
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\MatchingBrackets\bin\Debug\netcoreapp3.0\MatchingBrackets.runtimeconfig.dev.json
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\MatchingBrackets\bin\Debug\netcoreapp3.0\MatchingBrackets.dll
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\MatchingBrackets\bin\Debug\netcoreapp3.0\MatchingBrackets.pdb
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\MatchingBrackets\obj\Debug\netcoreapp3.0\MatchingBrackets.csprojAssemblyReference.cache
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\MatchingBrackets\obj\Debug\netcoreapp3.0\MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\MatchingBrackets\obj\Debug\netcoreapp3.0\MatchingBrackets.AssemblyInfo.cs
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\MatchingBrackets\obj\Debug\netcoreapp3.0\MatchingBrackets.dll
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\MatchingBrackets\obj\Debug\netcoreapp3.0\MatchingBrackets.pdb
