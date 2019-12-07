@@ -1,0 +1,11 @@
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\PrintEven\bin\Debug\netcoreapp3.0\PrintEven.exe
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\PrintEven\bin\Debug\netcoreapp3.0\PrintEven.deps.json
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\PrintEven\bin\Debug\netcoreapp3.0\PrintEven.runtimeconfig.json
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\PrintEven\bin\Debug\netcoreapp3.0\PrintEven.runtimeconfig.dev.json
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\PrintEven\bin\Debug\netcoreapp3.0\PrintEven.dll
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\PrintEven\bin\Debug\netcoreapp3.0\PrintEven.pdb
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\PrintEven\obj\Debug\netcoreapp3.0\PrintEven.AssemblyInfoInputs.cache
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\PrintEven\obj\Debug\netcoreapp3.0\PrintEven.AssemblyInfo.cs
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\PrintEven\obj\Debug\netcoreapp3.0\PrintEven.dll
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\PrintEven\obj\Debug\netcoreapp3.0\PrintEven.pdb
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\PrintEven\obj\Debug\netcoreapp3.0\PrintEven.csprojAssemblyReference.cache

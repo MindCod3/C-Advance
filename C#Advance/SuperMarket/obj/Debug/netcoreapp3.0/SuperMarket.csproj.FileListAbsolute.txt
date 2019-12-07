@@ -1,0 +1,10 @@
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\SuperMarket\bin\Debug\netcoreapp3.0\SuperMarket.exe
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\SuperMarket\bin\Debug\netcoreapp3.0\SuperMarket.deps.json
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\SuperMarket\bin\Debug\netcoreapp3.0\SuperMarket.runtimeconfig.json
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\SuperMarket\bin\Debug\netcoreapp3.0\SuperMarket.runtimeconfig.dev.json
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\SuperMarket\bin\Debug\netcoreapp3.0\SuperMarket.dll
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\SuperMarket\bin\Debug\netcoreapp3.0\SuperMarket.pdb
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\SuperMarket\obj\Debug\netcoreapp3.0\SuperMarket.AssemblyInfoInputs.cache
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\SuperMarket\obj\Debug\netcoreapp3.0\SuperMarket.AssemblyInfo.cs
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\SuperMarket\obj\Debug\netcoreapp3.0\SuperMarket.dll
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\SuperMarket\obj\Debug\netcoreapp3.0\SuperMarket.pdb

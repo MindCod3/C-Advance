@@ -1,0 +1,11 @@
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\SimpleCalculator\bin\Debug\netcoreapp3.0\SimpleCalculator.exe
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\SimpleCalculator\bin\Debug\netcoreapp3.0\SimpleCalculator.deps.json
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\SimpleCalculator\bin\Debug\netcoreapp3.0\SimpleCalculator.runtimeconfig.json
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\SimpleCalculator\bin\Debug\netcoreapp3.0\SimpleCalculator.runtimeconfig.dev.json
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\SimpleCalculator\bin\Debug\netcoreapp3.0\SimpleCalculator.dll
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\SimpleCalculator\bin\Debug\netcoreapp3.0\SimpleCalculator.pdb
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\SimpleCalculator\obj\Debug\netcoreapp3.0\SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\SimpleCalculator\obj\Debug\netcoreapp3.0\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\SimpleCalculator\obj\Debug\netcoreapp3.0\SimpleCalculator.AssemblyInfo.cs
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\SimpleCalculator\obj\Debug\netcoreapp3.0\SimpleCalculator.dll
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\SimpleCalculator\obj\Debug\netcoreapp3.0\SimpleCalculator.pdb

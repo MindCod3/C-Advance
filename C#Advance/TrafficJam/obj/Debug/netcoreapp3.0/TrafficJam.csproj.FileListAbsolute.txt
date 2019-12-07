@@ -1,0 +1,11 @@
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\TrafficJam\bin\Debug\netcoreapp3.0\TrafficJam.exe
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\TrafficJam\bin\Debug\netcoreapp3.0\TrafficJam.deps.json
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\TrafficJam\bin\Debug\netcoreapp3.0\TrafficJam.runtimeconfig.json
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\TrafficJam\bin\Debug\netcoreapp3.0\TrafficJam.runtimeconfig.dev.json
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\TrafficJam\bin\Debug\netcoreapp3.0\TrafficJam.dll
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\TrafficJam\bin\Debug\netcoreapp3.0\TrafficJam.pdb
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\TrafficJam\obj\Debug\netcoreapp3.0\TrafficJam.AssemblyInfoInputs.cache
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\TrafficJam\obj\Debug\netcoreapp3.0\TrafficJam.AssemblyInfo.cs
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\TrafficJam\obj\Debug\netcoreapp3.0\TrafficJam.dll
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\TrafficJam\obj\Debug\netcoreapp3.0\TrafficJam.pdb
+C:\Users\Trayan Toshkov\source\repos\AdvancedModule\TrafficJam\obj\Debug\netcoreapp3.0\TrafficJam.csprojAssemblyReference.cache
