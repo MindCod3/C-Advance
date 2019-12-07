@@ -1,2 +1,0 @@
-# C-AdvanceOOP
-Test
